@@ -19,7 +19,7 @@ This helps order the icons alphabetically. This way subdomains are closer to the
 
 ## Can I contribute?
 
-Sure! If you want to add an image, [add a request for it][new-issue] or implement it yourself and [open a PR][new-pr]. Please note that this is first of all a side project to make my browser pretty, so I may reject your PR or request changes if I dislike the way you did the icon.
+Sure! If you want to add an image, [add a request for it](https://github.com/NickKaramoff/ff-topsites-images/issues/new?assignees=NickKaramoff&labels=new+icon&template=icon-request.md&title=Add+%5BWEBSITE_ADDRESS%5D) or implement it yourself and [open a PR][new-pr]. Please note that this is first of all a side project to make my browser pretty, so I may reject your PR or request changes if I dislike the way you did the icon.
 
 The guidelines for thumbnails are as follows:
   - **Format:** PNG
@@ -32,7 +32,6 @@ The guidelines for thumbnails are as follows:
 
 ----
 
-All trademark rights reserved by their respective owners. If you own right to an image published in this repo and would like it to be taken down, [file an issue][new-issue] or [email me](copyright@karamoff.dev).
+All trademark rights reserved by their respective owners. If you own right to an image published in this repo and would like it to be taken down, [file an issue](https://github.com/NickKaramoff/ff-topsites-images/issues/new?assignees=NickKaramoff&labels=takedown&template=takedown-request.md&title=Take+down+%5BWEBSITE_ADDRESS%5D) or [email me](copyright@karamoff.dev).
 
-[new-issue]: https://github.com/NickKaramoff/ff-topsites-images/issues/new
 [new-pr]: https://github.com/NickKaramoff/ff-topsites-images/compare
