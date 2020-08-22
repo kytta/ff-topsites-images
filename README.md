@@ -21,7 +21,14 @@ This helps order the icons alphabetically. This way subdomains are closer to the
 
 Sure! If you want to add an image, [add a request for it][new-issue] or implement it yourself and [open a PR][new-pr]. Please note that this is first of all a side project to make my browser pretty, so I may reject your PR or request changes if I dislike the way you did the icon.
 
-> TOOD: add guidelines
+The guidelines for thumbnails are as follows:
+  - **Format:** PNG
+  - **Size:** 192x192
+  - **Content:** centered, fits into 152x152 square  
+    You can use [Material Design Product Icon Guidelines](https://material.io/design/iconography/product-icons.html#grid-and-keyline-shapes) for reference
+  - **Compression:** [Squoosh](https://squoosh.app/)
+    - **Resize:** Lanczos3 100% to 192x192, Linear RGB
+    - **Compress:** OxiPNG with Effort 2
 
 ----
 
