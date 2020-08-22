@@ -24,7 +24,7 @@ Sure! If you want to add an image, [add a request for it][new-issue] or implemen
 The guidelines for thumbnails are as follows:
   - **Format:** PNG
   - **Size:** 192x192
-  - **Content:** centered, fits into 152x152 square  
+  - **Content:** centered, fits into 152x152 square, preferably 140x140  
     You can use [Material Design Product Icon Guidelines](https://material.io/design/iconography/product-icons.html#grid-and-keyline-shapes) for reference
   - **Compression:** [Squoosh](https://squoosh.app/)
     - **Resize:** Lanczos3 100% to 192x192, Linear RGB
