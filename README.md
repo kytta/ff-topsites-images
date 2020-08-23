@@ -1,13 +1,13 @@
 # ff-topsites-images
 Slick images for use as Firefox Top Sites' custom thumbnails
 
-## Why
+## Why?
 
 Firefox' Top Sites feature is great and simple, yet there is a problem — the websites have either ugly or no thumbnails. However, one can add a custom image either by uploading it or by using a link. This repo is a collection of handmade thumbnail images for popular sites.
 
 <p align="center"><img src="https://raw.githubusercontent.com/NickKaramoff/ff-topsites-images/master/demo%402x.png" width="466"></p>
 
-## How
+## How to use
 
 There is currently no list of websites, but you can easily try to find one by inserting the _reversed_ website URL into this template: `https://raw.githubusercontent.com/NickKaramoff/ff-topsites-images/master/dist/<reversed-url>.png`
 
