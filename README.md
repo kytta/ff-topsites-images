@@ -1,4 +1,9 @@
-# ff-topsites-images
+> [!IMPORTANT]
+> **THIS PROJECT IS UNMAINTAINED**
+>
+> This was a personal project, but now, I am not using it anymore. Since the last commit, Firefox has changed the way it handles icons, so these do not look good any more. Also, I stopped using Top Sites. If you want to keep this going, feel free to fork.
+
+# ~~ff-topsites-images~~
 Slick images for use as Firefox Top Sites' custom thumbnails
 
 ## Why?
